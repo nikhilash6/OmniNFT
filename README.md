@@ -1,5 +1,5 @@
 <h2 align="center">OmniNFT</h2>
-<h4 align="center">Modality-wise Omni Diffusion Negative-aware Fine-Tuning</h4>
+<h4 align="center">Modality-wise Omni Diffusion Negative-aware Fine-Tuning for Joint Audio and Video Generation</h4>
 
 <p align="center">
   <a href="https://huggingface.co/zghhui/OmniNFT"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-OmniNFT-ffc107?logoColor=white" alt="HuggingFace"/></a>
@@ -9,6 +9,7 @@
 
 ---
 ## 🔈 News
+- [2026-05-21] Comfy compatible format is [here](https://huggingface.co/Kijai/LTX2.3_comfy/blob/main/loras/LTX-2.3-OmniNFT-RL-Lora_bf16.safetensors).
 - [2026-05-19] LTX-2.3 has been supported 🚀. LoRA weights for LTX-2.3 are now available!
 - [2026-05-13] OmniNFT is released on [Arixv](https://arxiv.org/abs/2605.12480).
 - [2026-05-11] Code and LoRA weights for LTX-2 are available.
